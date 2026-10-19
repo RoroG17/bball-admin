@@ -1,0 +1,183 @@
+[
+  {
+    "licence": "LIC1000",
+    "nom": "MARCHAND",
+    "prenom": "Lucas",
+    "civilite": "M",
+    "date_naissance": "2011-02-08",
+    "photo": "marchand.png",
+    "Id_Equipe": 1,
+    "physics": [
+      {
+        "id": "3",
+        "type": "size",
+        "value": 172,
+        "date_physics": "2026-05-26"
+      },
+      {
+        "id": "4",
+        "type": "spring",
+        "value": 49,
+        "date_physics": "2026-05-26"
+      },
+      {
+        "id": "5",
+        "type": "vma",
+        "value": 15,
+        "date_physics": "2026-05-26"
+      },
+      {
+        "id": "6",
+        "type": "size",
+        "value": 172,
+        "date_physics": "2026-07-17"
+      },
+      {
+        "id": "7",
+        "type": "spring",
+        "value": 49,
+        "date_physics": "2026-07-17"
+      },
+      {
+        "id": "8",
+        "type": "vma",
+        "value": 15,
+        "date_physics": "2026-07-17"
+      }
+    ],
+    "equipe": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  },
+  {
+    "licence": "LIC2000",
+    "nom": "ROUSSEL",
+    "prenom": "Élodie",
+    "civilite": "M",
+    "date_naissance": "2011-03-15",
+    "photo": "roussel.png",
+    "Id_Equipe": 1,
+    "physics": [],
+    "equipe": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  },
+  {
+    "licence": "LIC1002",
+    "nom": "FAURE",
+    "prenom": "Hugo",
+    "civilite": "M",
+    "date_naissance": "2011-04-22",
+    "photo": "faure.png",
+    "Id_Equipe": 1,
+    "physics": [],
+    "equipe": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  },
+  {
+    "licence": "LIC1003",
+    "nom": "GIRARD",
+    "prenom": "Nathan",
+    "civilite": "M",
+    "date_naissance": "2011-05-02",
+    "photo": null,
+    "Id_Equipe": 1,
+    "physics": [],
+    "equipe": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  },
+  {
+    "licence": "LIC4000",
+    "nom": "LEFEBVRE",
+    "prenom": "Tom",
+    "civilite": "M",
+    "date_naissance": "2011-06-09",
+    "photo": "lefebvre.png",
+    "Id_Equipe": 1,
+    "physics": [],
+    "equipe": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  },
+  {
+    "licence": "LIC1004",
+    "nom": "MERCIER",
+    "prenom": "Noah",
+    "civilite": "M",
+    "date_naissance": "2011-08-23",
+    "photo": "mercier.png",
+    "Id_Equipe": 1,
+    "physics": [],
+    "equipe": "FAC Basket",
+    "logo": null
+  },
+  {
+    "licence": "LIC1008",
+    "nom": "FOURNIER",
+    "prenom": "Louis",
+    "civilite": "M",
+    "date_naissance": "2011-12-24",
+    "photo": "fournier.png",
+    "Id_Equipe": 1,
+    "physics": [],
+    "equipe": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  },
+  {
+    "licence": "LIC1009",
+    "nom": "LAMBERT",
+    "prenom": "Gabin",
+    "civilite": "M",
+    "date_naissance": "2011-01-04",
+    "photo": "lambert.png",
+    "Id_Equipe": 1,
+    "physics": [],
+    "equipe": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  },
+  {
+    "licence": "LIC1010",
+    "nom": "ROUX",
+    "prenom": "Jules",
+    "civilite": "M",
+    "date_naissance": "2011-02-11",
+    "photo": "roux.png",
+    "Id_Equipe": 1,
+    "physics": [],
+    "equipe": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  },
+  {
+    "licence": "LIC1011",
+    "nom": "VINCENT",
+    "prenom": "Sacha",
+    "civilite": "M",
+    "date_naissance": "2011-03-18",
+    "photo": "vincent.png",
+    "Id_Equipe": 1,
+    "physics": [],
+    "equipe": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  },
+  {
+    "licence": "LIC1013",
+    "nom": "CHEVALIER",
+    "prenom": "Maël",
+    "civilite": "M",
+    "date_naissance": "2011-05-05",
+    "photo": "chevalier.png",
+    "Id_Equipe": 1,
+    "physics": [],
+    "equipe": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  },
+  {
+    "licence": "LIC1014",
+    "nom": "ROBIN",
+    "prenom": "Timéo",
+    "civilite": "M",
+    "date_naissance": "2011-06-12",
+    "photo": "robin.png",
+    "Id_Equipe": 1,
+    "physics": [],
+    "equipe": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  }
+]

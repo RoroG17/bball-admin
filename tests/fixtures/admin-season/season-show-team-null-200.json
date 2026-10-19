@@ -1,0 +1,4 @@
+{
+  "saison": { "Id_Saison": 5, "annee_debut": 2023, "annee_fin": 2024, "championnat": "Départementale", "categorie": "U13", "equipe": null },
+  "participer": [{ "licence": "LIC1000" }]
+}

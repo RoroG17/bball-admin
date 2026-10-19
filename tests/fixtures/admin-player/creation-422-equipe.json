@@ -1,0 +1,8 @@
+{
+  "message": "The selected equipe is invalid.",
+  "errors": {
+    "equipe": [
+      "The selected equipe is invalid."
+    ]
+  }
+}

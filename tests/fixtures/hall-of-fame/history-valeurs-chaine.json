@@ -1,0 +1,3262 @@
+{
+  "rankings": {
+    "points": {
+      "max_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 38
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 35
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 32
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 29
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 26
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 23
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 20
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 17
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 14
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 11
+        }
+      ],
+      "avg_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "17.40"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "16.30"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "15.20"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "14.10"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "13.00"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "11.90"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "10.80"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "9.70"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "8.60"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "7.50"
+        }
+      ],
+      "max_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 412
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 384
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 356
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 328
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 300
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 272
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 244
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 216
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 188
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 160
+        }
+      ],
+      "avg_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "301.50"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "279.50"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "257.50"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "235.50"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "213.50"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "191.50"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "169.50"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "147.50"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "125.50"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "103.50"
+        }
+      ],
+      "career_total": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 1480
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 1385
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 1290
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 1195
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 1100
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 1005
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 910
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 815
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 720
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 625
+        }
+      ]
+    },
+    "assists": {
+      "max_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 14
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 13
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 12
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 11
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 10
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 9
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 8
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 7
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 6
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 5
+        }
+      ],
+      "avg_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "5.20"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "4.80"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "4.40"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "4.00"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "3.60"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "3.20"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "2.80"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "2.40"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "2.00"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "1.60"
+        }
+      ],
+      "max_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 160
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 149
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 138
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 127
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 116
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 105
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 94
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 83
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 72
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 61
+        }
+      ],
+      "avg_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "121.50"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "112.50"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "103.50"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "94.50"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "85.50"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "76.50"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "67.50"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "58.50"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "49.50"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "40.50"
+        }
+      ],
+      "career_total": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 540
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 502
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 464
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 426
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 388
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 350
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 312
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 274
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 236
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 198
+        }
+      ]
+    },
+    "rebounds": {
+      "max_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 22
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 21
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 19
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 18
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 16
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 15
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 13
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 12
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 10
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 9
+        }
+      ],
+      "avg_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "9.10"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "8.40"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "7.70"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "7.00"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "6.30"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "5.60"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "4.90"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "4.20"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "3.50"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "2.80"
+        }
+      ],
+      "max_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 260
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 243
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 226
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 209
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 192
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 175
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 158
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 141
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 124
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 107
+        }
+      ],
+      "avg_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "198.50"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "184.50"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "170.50"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "156.50"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "142.50"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "128.50"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "114.50"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "100.50"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "86.50"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "72.50"
+        }
+      ],
+      "career_total": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 900
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 840
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 780
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 720
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 660
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 600
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 540
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 480
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 420
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 360
+        }
+      ]
+    },
+    "steals": {
+      "max_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 9
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 8
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 8
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 7
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 7
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 6
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 5
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 5
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 4
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 4
+        }
+      ],
+      "avg_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "2.80"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "2.60"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "2.40"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "2.20"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "2.00"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "1.80"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "1.60"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "1.40"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "1.20"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "1.00"
+        }
+      ],
+      "max_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 74
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 69
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 64
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 59
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 54
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 49
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 44
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 39
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 34
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 29
+        }
+      ],
+      "avg_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "58.50"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "54.50"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "50.50"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "46.50"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "42.50"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "38.50"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "34.50"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "30.50"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "26.50"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "22.50"
+        }
+      ],
+      "career_total": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 250
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 233
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 216
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 199
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 182
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 165
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 148
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 131
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 114
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 97
+        }
+      ]
+    },
+    "blocks": {
+      "max_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 7
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 7
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 6
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 6
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 5
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 5
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 4
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 4
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 3
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 3
+        }
+      ],
+      "avg_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "1.90"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "1.75"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "1.60"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "1.45"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "1.30"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "1.15"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "1.00"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "0.85"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "0.70"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "0.55"
+        }
+      ],
+      "max_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 48
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 45
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 42
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 39
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 36
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 33
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 30
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 27
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 24
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 21
+        }
+      ],
+      "avg_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "36.50"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "34.00"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "31.50"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "29.00"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "26.50"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "24.00"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "21.50"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "19.00"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "16.50"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "14.00"
+        }
+      ],
+      "career_total": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 170
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 158
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 146
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 134
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 122
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 110
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 98
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 86
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 74
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 62
+        }
+      ]
+    },
+    "turnovers": {
+      "max_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 11
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 10
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 9
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 9
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 8
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 7
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 6
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 5
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 5
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 4
+        }
+      ],
+      "avg_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "3.90"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "3.60"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "3.30"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "3.00"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "2.70"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "2.40"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "2.10"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "1.80"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "1.50"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "1.20"
+        }
+      ],
+      "max_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 90
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 84
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 78
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 72
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 66
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 60
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 54
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 48
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 42
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 36
+        }
+      ],
+      "avg_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "71.50"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "66.50"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "61.50"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "56.50"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "51.50"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "46.50"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "41.50"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "36.50"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "31.50"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "26.50"
+        }
+      ],
+      "career_total": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": 310
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": 290
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": 270
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": 250
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": 230
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": 210
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": 190
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": 170
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": 150
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": 130
+        }
+      ]
+    },
+    "field_goal_percentage": {
+      "max_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "68.40"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "66.70"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "65.00"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "63.30"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "61.60"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "59.90"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "58.20"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "56.50"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "54.80"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "53.10"
+        }
+      ],
+      "avg_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "66.40"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "64.70"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "63.00"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "61.30"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "59.60"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "57.90"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "56.20"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "54.50"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "52.80"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "51.10"
+        }
+      ],
+      "max_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "64.40"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "62.70"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "61.00"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "59.30"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "57.60"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "55.90"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "54.20"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "52.50"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "50.80"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "49.10"
+        }
+      ],
+      "avg_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "62.40"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "60.70"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "59.00"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "57.30"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "55.60"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "53.90"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "52.20"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "50.50"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "48.80"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "47.10"
+        }
+      ],
+      "career_total": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "60.40"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "58.70"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "57.00"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "55.30"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "53.60"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "51.90"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "50.20"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "48.50"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "46.80"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "45.10"
+        }
+      ]
+    },
+    "three_point_percentage": {
+      "max_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "52.30"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "50.60"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "48.90"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "47.20"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "45.50"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "43.80"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "42.10"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "40.40"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "38.70"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "37.00"
+        }
+      ],
+      "avg_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "50.30"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "48.60"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "46.90"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "45.20"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "43.50"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "41.80"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "40.10"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "38.40"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "36.70"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "35.00"
+        }
+      ],
+      "max_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "48.30"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "46.60"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "44.90"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "43.20"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "41.50"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "39.80"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "38.10"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "36.40"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "34.70"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "33.00"
+        }
+      ],
+      "avg_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "46.30"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "44.60"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "42.90"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "41.20"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "39.50"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "37.80"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "36.10"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "34.40"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "32.70"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "31.00"
+        }
+      ],
+      "career_total": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "44.30"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "42.60"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "40.90"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "39.20"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "37.50"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "35.80"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "34.10"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "32.40"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "30.70"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "29.00"
+        }
+      ]
+    },
+    "free_throw_percentage": {
+      "max_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "91.70"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "90.00"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "88.30"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "86.60"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "84.90"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "83.20"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "81.50"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "79.80"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "78.10"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "76.40"
+        }
+      ],
+      "avg_game": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "89.70"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "88.00"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "86.30"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "84.60"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "82.90"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "81.20"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "79.50"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "77.80"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "76.10"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "74.40"
+        }
+      ],
+      "max_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "87.70"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "86.00"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "84.30"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "82.60"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "80.90"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "79.20"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "77.50"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "75.80"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "74.10"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "72.40"
+        }
+      ],
+      "avg_season": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "85.70"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "84.00"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "82.30"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "80.60"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "78.90"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "77.20"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "75.50"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "73.80"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "72.10"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "70.40"
+        }
+      ],
+      "career_total": [
+        {
+          "licence": "LIC1000",
+          "nom": "MARCHAND",
+          "prenom": "Lucas",
+          "photo": "lucas.jpg",
+          "valeur": "83.70"
+        },
+        {
+          "licence": "LIC2000",
+          "nom": "GARNIER",
+          "prenom": "Baptiste",
+          "photo": "baptiste.jpg",
+          "valeur": "82.00"
+        },
+        {
+          "licence": "LIC2100",
+          "nom": "LEFEBVRE",
+          "prenom": "Hugo",
+          "photo": "hugo.jpg",
+          "valeur": "80.30"
+        },
+        {
+          "licence": "LIC2200",
+          "nom": "ROUSSEAU",
+          "prenom": "Nathan",
+          "photo": "nathan.jpg",
+          "valeur": "78.60"
+        },
+        {
+          "licence": "LIC2300",
+          "nom": "FOURNIER",
+          "prenom": "Elias",
+          "photo": "elias.jpg",
+          "valeur": "76.90"
+        },
+        {
+          "licence": "LIC2400",
+          "nom": "MOREAU",
+          "prenom": "Tom",
+          "photo": "tom.jpg",
+          "valeur": "75.20"
+        },
+        {
+          "licence": "LIC2500",
+          "nom": "DUBOIS",
+          "prenom": "Léo",
+          "photo": "leo.jpg",
+          "valeur": "73.50"
+        },
+        {
+          "licence": "LIC2600",
+          "nom": "LAMBERT",
+          "prenom": "Maxime",
+          "photo": "maxime.jpg",
+          "valeur": "71.80"
+        },
+        {
+          "licence": "LIC2700",
+          "nom": "PETIT",
+          "prenom": "Yanis",
+          "photo": "yanis.jpg",
+          "valeur": "70.10"
+        },
+        {
+          "licence": "LIC2800",
+          "nom": "ROBIN",
+          "prenom": "Adam",
+          "photo": "adam.jpg",
+          "valeur": "68.40"
+        }
+      ]
+    }
+  }
+}

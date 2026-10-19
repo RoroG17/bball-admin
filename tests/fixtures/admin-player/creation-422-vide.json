@@ -1,0 +1,23 @@
+{
+  "message": "The licence field is required. (and 5 more errors)",
+  "errors": {
+    "licence": [
+      "The licence field is required."
+    ],
+    "nom": [
+      "The nom field is required."
+    ],
+    "prenom": [
+      "The prenom field is required."
+    ],
+    "civilite": [
+      "The civilite field is required."
+    ],
+    "date_naissance": [
+      "The date naissance field is required."
+    ],
+    "equipe": [
+      "The equipe field is required."
+    ]
+  }
+}

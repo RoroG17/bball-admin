@@ -1,0 +1,8 @@
+{
+  "message": "The licence has already been taken.",
+  "errors": {
+    "licence": [
+      "The licence has already been taken."
+    ]
+  }
+}

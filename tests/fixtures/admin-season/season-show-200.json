@@ -1,0 +1,9 @@
+{
+  "saison": { "Id_Saison": 4, "annee_debut": 2025, "annee_fin": 2026, "championnat": "D1", "categorie": "U15G", "equipe": 1 },
+  "participer": [
+    { "licence": "LIC1000" },
+    { "licence": "LIC2000" },
+    { "licence": "LIC1002" },
+    { "licence": "LIC1000" }
+  ]
+}

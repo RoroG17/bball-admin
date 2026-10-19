@@ -1,0 +1,7 @@
+[
+  { "Id_Saison": 4, "annee_debut": 2025, "annee_fin": 2026, "championnat": "D1", "categorie": "U15G", "equipe": 1 },
+  { "Id_Saison": 6, "annee_debut": 2025, "annee_fin": 2026, "championnat": "Régionale 2", "categorie": "Senior", "equipe": 7 },
+  { "Id_Saison": 1, "annee_debut": 2024, "annee_fin": 2025, "championnat": "D3", "categorie": "U15G", "equipe": 1 },
+  { "Id_Saison": 5, "annee_debut": 2023, "annee_fin": 2024, "championnat": "Départementale", "categorie": "U13", "equipe": null },
+  { "Id_Saison": "3", "annee_debut": "2022", "annee_fin": "2023", "championnat": "D2", "categorie": "U13", "equipe": "1" }
+]

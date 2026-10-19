@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "username": "admin", "joueur": null, "nom": null, "prenom": null, "equipe": null, "has_password": 1 },
+    { "username": "Jean Pierre.Martin", "joueur": "LIC9100", "nom": "MARTIN", "prenom": "Jean Pierre", "equipe": "FAC Basket", "has_password": 0 },
+    { "username": "Admin ", "joueur": null, "nom": null, "prenom": null, "equipe": null, "has_password": 1 },
+    { "username": "paul.durand", "joueur": "LIC1001", "nom": "DURAND", "prenom": "Paul", "equipe": "FAC Basket", "has_password": 1 }
+  ]
+}

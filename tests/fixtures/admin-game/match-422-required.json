@@ -1,0 +1,10 @@
+{
+  "message": "The date match field is required. (and 4 more errors)",
+  "errors": {
+    "date_match": ["The date match field is required."],
+    "numero": ["The numero field is required."],
+    "equipe_domicile": ["The equipe domicile field is required."],
+    "equipe_exterieur": ["The equipe exterieur field is required."],
+    "Id_Saison": ["The id  saison field is required."]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "message": "The selected id saison is invalid.",
+  "errors": {
+    "Id_Saison": [
+      "The selected id saison is invalid."
+    ]
+  }
+}

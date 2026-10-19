@@ -1,0 +1,2494 @@
+[
+  {
+    "id": 1900,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-12T12:02:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1899,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-12T10:42:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1898,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-12T09:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "The given data was invalid.",
+    "route": "/api/joueurs",
+    "method": "POST",
+    "status_code": 422,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1897,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-12T08:02:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "This action is unauthorized.",
+    "route": "/api/saisons/4",
+    "method": "DELETE",
+    "status_code": 403,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1896,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-12T06:42:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1895,
+    "user_id": null,
+    "latitude": 43.60452,
+    "longitude": 1.44338,
+    "created_at": "2026-10-12T05:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1894,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-12T04:02:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": null,
+    "os": null,
+    "message": "SQLSTATE[22P02]: Invalid text representation: 7 ERROR: invalid input syntax for type integer: \"abc\" (Connection: pgsql, SQL: select * from \"equipes\" where \"Id_Equipe\" = abc limit 1)",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1893,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-12T02:42:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1892,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-12T01:22:11.000000Z",
+    "user": null,
+    "platform": "web",
+    "os": null,
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1891,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-12T00:02:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "The given data was invalid.",
+    "route": "/api/joueurs",
+    "method": "POST",
+    "status_code": 422,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1890,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T22:42:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "This action is unauthorized.",
+    "route": "/api/saisons/4",
+    "method": "DELETE",
+    "status_code": 403,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1889,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T21:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1888,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T20:02:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1887,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T18:42:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "SQLSTATE[22P02]: Invalid text representation: 7 ERROR: invalid input syntax for type integer: \"abc\" (Connection: pgsql, SQL: select * from \"equipes\" where \"Id_Equipe\" = abc limit 1)",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1886,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T17:22:11.000000Z",
+    "user": null,
+    "platform": "web",
+    "os": null,
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1885,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T16:02:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1884,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T14:42:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": null,
+    "os": null,
+    "message": "The given data was invalid.",
+    "route": "/api/joueurs",
+    "method": "POST",
+    "status_code": 422,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1883,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T13:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "This action is unauthorized.",
+    "route": "/api/saisons/4",
+    "method": "DELETE",
+    "status_code": 403,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1882,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T12:02:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "TypeError: Cannot read properties of undefined (reading 'map')",
+    "route": "/joueurs/LIC1000",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "componentStack": "at PlayerList (app.js:42)",
+      "userAgent": "Mozilla/5.0"
+    },
+    "source": "client"
+  },
+  {
+    "id": 1881,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T10:42:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1880,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T09:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "SQLSTATE[22P02]: Invalid text representation: 7 ERROR: invalid input syntax for type integer: \"abc\" (Connection: pgsql, SQL: select * from \"equipes\" where \"Id_Equipe\" = abc limit 1)",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1879,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T08:02:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "TypeError: Cannot read properties of undefined (reading 'map')",
+    "route": "/joueurs/LIC1000",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "componentStack": "at PlayerList (app.js:42)",
+      "userAgent": "Mozilla/5.0"
+    },
+    "source": "client"
+  },
+  {
+    "id": 1878,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T06:42:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1877,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T05:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "The given data was invalid.",
+    "route": "/api/joueurs",
+    "method": "POST",
+    "status_code": 422,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1876,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T04:02:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "TypeError: Cannot read properties of undefined (reading 'map')",
+    "route": "/joueurs/LIC1000",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "componentStack": "at PlayerList (app.js:42)",
+      "userAgent": "Mozilla/5.0"
+    },
+    "source": "client"
+  },
+  {
+    "id": 1875,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T02:42:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Unauthenticated.",
+    "route": "/api/users",
+    "method": "GET",
+    "status_code": 401,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1874,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T01:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1873,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-11T00:02:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "SQLSTATE[22P02]: Invalid text representation: 7 ERROR: invalid input syntax for type integer: \"abc\" (Connection: pgsql, SQL: select * from \"equipes\" where \"Id_Equipe\" = abc limit 1)",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1872,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T22:42:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1871,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T21:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1870,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T20:02:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "The given data was invalid.",
+    "route": "/api/joueurs",
+    "method": "POST",
+    "status_code": 422,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1869,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T18:42:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1868,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T17:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "Unauthenticated.",
+    "route": "/api/users",
+    "method": "GET",
+    "status_code": 401,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1867,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T16:02:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1866,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T14:42:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1865,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T13:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1864,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T12:02:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1863,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T10:42:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "The given data was invalid.",
+    "route": "/api/joueurs",
+    "method": "POST",
+    "status_code": 422,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1862,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T09:22:11.000000Z",
+    "user": null,
+    "platform": "web",
+    "os": null,
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1861,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T08:02:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Unauthenticated.",
+    "route": "/api/users",
+    "method": "GET",
+    "status_code": 401,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1860,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T06:42:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1859,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T05:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1858,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T04:02:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1857,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T02:42:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1856,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T01:22:11.000000Z",
+    "user": null,
+    "platform": "web",
+    "os": null,
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1855,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-10T00:02:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "This action is unauthorized.",
+    "route": "/api/saisons/4",
+    "method": "DELETE",
+    "status_code": 403,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1854,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T22:42:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Unauthenticated.",
+    "route": "/api/users",
+    "method": "GET",
+    "status_code": 401,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1853,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T21:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1852,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T20:02:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "TypeError: Cannot read properties of undefined (reading 'map')",
+    "route": "/joueurs/LIC1000",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "componentStack": "at PlayerList (app.js:42)",
+      "userAgent": "Mozilla/5.0"
+    },
+    "source": "client"
+  },
+  {
+    "id": 1851,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T18:42:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1850,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T17:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1849,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T16:02:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "TypeError: Cannot read properties of undefined (reading 'map')",
+    "route": "/joueurs/LIC1000",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "componentStack": "at PlayerList (app.js:42)",
+      "userAgent": "Mozilla/5.0"
+    },
+    "source": "client"
+  },
+  {
+    "id": 1848,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T14:42:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": null,
+    "os": null,
+    "message": "This action is unauthorized.",
+    "route": "/api/saisons/4",
+    "method": "DELETE",
+    "status_code": 403,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1847,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T13:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "Unauthenticated.",
+    "route": "/api/users",
+    "method": "GET",
+    "status_code": 401,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1846,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T12:02:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "TypeError: Cannot read properties of undefined (reading 'map')",
+    "route": "/joueurs/LIC1000",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "componentStack": "at PlayerList (app.js:42)",
+      "userAgent": "Mozilla/5.0"
+    },
+    "source": "client"
+  },
+  {
+    "id": 1845,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T10:42:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "SQLSTATE[22P02]: Invalid text representation: 7 ERROR: invalid input syntax for type integer: \"abc\" (Connection: pgsql, SQL: select * from \"equipes\" where \"Id_Equipe\" = abc limit 1)",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1844,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T09:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1843,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T08:02:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1842,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T06:42:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1841,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T05:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "This action is unauthorized.",
+    "route": "/api/saisons/4",
+    "method": "DELETE",
+    "status_code": 403,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1840,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T04:02:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "Unauthenticated.",
+    "route": "/api/users",
+    "method": "GET",
+    "status_code": 401,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1839,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T02:42:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1838,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T01:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "SQLSTATE[22P02]: Invalid text representation: 7 ERROR: invalid input syntax for type integer: \"abc\" (Connection: pgsql, SQL: select * from \"equipes\" where \"Id_Equipe\" = abc limit 1)",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1837,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-09T00:02:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1836,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T22:42:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1835,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T21:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "The given data was invalid.",
+    "route": "/api/joueurs",
+    "method": "POST",
+    "status_code": 422,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1834,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T20:02:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": null,
+    "os": null,
+    "message": "This action is unauthorized.",
+    "route": "/api/saisons/4",
+    "method": "DELETE",
+    "status_code": 403,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1833,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T18:42:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Unauthenticated.",
+    "route": "/api/users",
+    "method": "GET",
+    "status_code": 401,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1832,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T17:22:11.000000Z",
+    "user": null,
+    "platform": "web",
+    "os": null,
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1831,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T16:02:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "SQLSTATE[22P02]: Invalid text representation: 7 ERROR: invalid input syntax for type integer: \"abc\" (Connection: pgsql, SQL: select * from \"equipes\" where \"Id_Equipe\" = abc limit 1)",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1830,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T14:42:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1829,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T13:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1828,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T12:02:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": null,
+    "os": null,
+    "message": "The given data was invalid.",
+    "route": "/api/joueurs",
+    "method": "POST",
+    "status_code": 422,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1827,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T10:42:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "This action is unauthorized.",
+    "route": "/api/saisons/4",
+    "method": "DELETE",
+    "status_code": 403,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1826,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T09:22:11.000000Z",
+    "user": null,
+    "platform": "web",
+    "os": null,
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1825,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T08:02:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1824,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T06:42:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": null,
+    "os": null,
+    "message": "SQLSTATE[22P02]: Invalid text representation: 7 ERROR: invalid input syntax for type integer: \"abc\" (Connection: pgsql, SQL: select * from \"equipes\" where \"Id_Equipe\" = abc limit 1)",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1823,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T05:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1822,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T04:02:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "TypeError: Cannot read properties of undefined (reading 'map')",
+    "route": "/joueurs/LIC1000",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "componentStack": "at PlayerList (app.js:42)",
+      "userAgent": "Mozilla/5.0"
+    },
+    "source": "client"
+  },
+  {
+    "id": 1821,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T02:42:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "The given data was invalid.",
+    "route": "/api/joueurs",
+    "method": "POST",
+    "status_code": 422,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1820,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T01:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "This action is unauthorized.",
+    "route": "/api/saisons/4",
+    "method": "DELETE",
+    "status_code": 403,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1819,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-08T00:02:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "TypeError: Cannot read properties of undefined (reading 'map')",
+    "route": "/joueurs/LIC1000",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "componentStack": "at PlayerList (app.js:42)",
+      "userAgent": "Mozilla/5.0"
+    },
+    "source": "client"
+  },
+  {
+    "id": 1818,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T22:42:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1817,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T21:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "SQLSTATE[22P02]: Invalid text representation: 7 ERROR: invalid input syntax for type integer: \"abc\" (Connection: pgsql, SQL: select * from \"equipes\" where \"Id_Equipe\" = abc limit 1)",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1816,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T20:02:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "TypeError: Cannot read properties of undefined (reading 'map')",
+    "route": "/joueurs/LIC1000",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "componentStack": "at PlayerList (app.js:42)",
+      "userAgent": "Mozilla/5.0"
+    },
+    "source": "client"
+  },
+  {
+    "id": 1815,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T18:42:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1814,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T17:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "The given data was invalid.",
+    "route": "/api/joueurs",
+    "method": "POST",
+    "status_code": 422,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1813,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T16:02:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "This action is unauthorized.",
+    "route": "/api/saisons/4",
+    "method": "DELETE",
+    "status_code": 403,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1812,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T14:42:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1811,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T13:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1810,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T12:02:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "SQLSTATE[22P02]: Invalid text representation: 7 ERROR: invalid input syntax for type integer: \"abc\" (Connection: pgsql, SQL: select * from \"equipes\" where \"Id_Equipe\" = abc limit 1)",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1809,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T10:42:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1808,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T09:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1807,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T08:02:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "The given data was invalid.",
+    "route": "/api/joueurs",
+    "method": "POST",
+    "status_code": 422,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1806,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T06:42:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1805,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T05:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Unauthenticated.",
+    "route": "/api/users",
+    "method": "GET",
+    "status_code": 401,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1804,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T04:02:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1803,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T02:42:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "SQLSTATE[22P02]: Invalid text representation: 7 ERROR: invalid input syntax for type integer: \"abc\" (Connection: pgsql, SQL: select * from \"equipes\" where \"Id_Equipe\" = abc limit 1)",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1802,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T01:22:11.000000Z",
+    "user": null,
+    "platform": "web",
+    "os": null,
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1801,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-07T00:02:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1800,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T22:42:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "The given data was invalid.",
+    "route": "/api/joueurs",
+    "method": "POST",
+    "status_code": 422,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1799,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T21:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1798,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T20:02:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Unauthenticated.",
+    "route": "/api/users",
+    "method": "GET",
+    "status_code": 401,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1797,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T18:42:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1796,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T17:22:11.000000Z",
+    "user": null,
+    "platform": "web",
+    "os": null,
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1795,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T16:02:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1794,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T14:42:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1793,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T13:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "The given data was invalid.",
+    "route": "/api/joueurs",
+    "method": "POST",
+    "status_code": 422,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1792,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T12:02:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "TypeError: Cannot read properties of undefined (reading 'map')",
+    "route": "/joueurs/LIC1000",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "componentStack": "at PlayerList (app.js:42)",
+      "userAgent": "Mozilla/5.0"
+    },
+    "source": "client"
+  },
+  {
+    "id": 1791,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T10:42:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Unauthenticated.",
+    "route": "/api/users",
+    "method": "GET",
+    "status_code": 401,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1790,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T09:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1789,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T08:02:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "TypeError: Cannot read properties of undefined (reading 'map')",
+    "route": "/joueurs/LIC1000",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "componentStack": "at PlayerList (app.js:42)",
+      "userAgent": "Mozilla/5.0"
+    },
+    "source": "client"
+  },
+  {
+    "id": 1788,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T06:42:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1787,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T05:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1786,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T04:02:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "TypeError: Cannot read properties of undefined (reading 'map')",
+    "route": "/joueurs/LIC1000",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "componentStack": "at PlayerList (app.js:42)",
+      "userAgent": "Mozilla/5.0"
+    },
+    "source": "client"
+  },
+  {
+    "id": 1785,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T02:42:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "This action is unauthorized.",
+    "route": "/api/saisons/4",
+    "method": "DELETE",
+    "status_code": 403,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1784,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T01:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "Unauthenticated.",
+    "route": "/api/users",
+    "method": "GET",
+    "status_code": 401,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1783,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-06T00:02:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Match non trouvé",
+    "route": "/api/matchs/99999",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1782,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T22:42:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1781,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T21:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1780,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T20:02:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1779,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T18:42:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1778,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T17:22:11.000000Z",
+    "user": null,
+    "platform": null,
+    "os": null,
+    "message": "This action is unauthorized.",
+    "route": "/api/saisons/4",
+    "method": "DELETE",
+    "status_code": 403,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1777,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T16:02:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Unauthenticated.",
+    "route": "/api/users",
+    "method": "GET",
+    "status_code": 401,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1776,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T14:42:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": "web",
+    "os": null,
+    "message": "Network request failed",
+    "route": "/matchs/52",
+    "method": "POST",
+    "status_code": null,
+    "context": {
+      "url": "https://api.example.invalid/api/matchs/52",
+      "retries": 2
+    },
+    "source": "client"
+  },
+  {
+    "id": 1775,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T13:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "SQLSTATE[22P02]: Invalid text representation: 7 ERROR: invalid input syntax for type integer: \"abc\" (Connection: pgsql, SQL: select * from \"equipes\" where \"Id_Equipe\" = abc limit 1)",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1774,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T12:02:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1773,
+    "user_id": 1,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T10:42:11.000000Z",
+    "user": {
+      "id": 1,
+      "username": "admin"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Not Found",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 404,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1772,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T09:22:11.000000Z",
+    "user": null,
+    "platform": "web",
+    "os": null,
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1771,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T08:02:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "This action is unauthorized.",
+    "route": "/api/saisons/4",
+    "method": "DELETE",
+    "status_code": 403,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1770,
+    "user_id": 9,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T06:42:11.000000Z",
+    "user": {
+      "id": 9,
+      "username": "elodie.roussel"
+    },
+    "platform": "mobile",
+    "os": "iOS 17",
+    "message": "Unauthenticated.",
+    "route": "/api/users",
+    "method": "GET",
+    "status_code": 401,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1769,
+    "user_id": null,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T05:22:11.000000Z",
+    "user": null,
+    "platform": "mobile",
+    "os": "Android 14",
+    "message": "Uncaught ReferenceError: foo is not defined",
+    "route": "/",
+    "method": "POST",
+    "status_code": null,
+    "context": null,
+    "source": "client"
+  },
+  {
+    "id": 1768,
+    "user_id": 4,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T04:02:11.000000Z",
+    "user": {
+      "id": 4,
+      "username": "theo.bernard"
+    },
+    "platform": null,
+    "os": null,
+    "message": "SQLSTATE[22P02]: Invalid text representation: 7 ERROR: invalid input syntax for type integer: \"abc\" (Connection: pgsql, SQL: select * from \"equipes\" where \"Id_Equipe\" = abc limit 1)",
+    "route": "/api/equipes/abc",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  },
+  {
+    "id": 1767,
+    "user_id": 7,
+    "latitude": null,
+    "longitude": null,
+    "created_at": "2026-10-05T02:42:11.000000Z",
+    "user": {
+      "id": 7,
+      "username": "lucas.marchand"
+    },
+    "platform": null,
+    "os": null,
+    "message": "Server Error",
+    "route": "/api/matchs/52",
+    "method": "GET",
+    "status_code": 500,
+    "context": null,
+    "source": "server"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "message": "The annee debut field must be an integer. (and 1 more error)",
+  "errors": {
+    "annee_debut": ["The annee debut field must be an integer."],
+    "annee_fin": ["The annee fin field must be an integer."]
+  }
+}

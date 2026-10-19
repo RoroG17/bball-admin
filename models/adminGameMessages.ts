@@ -1,0 +1,47 @@
+/** Textes de l'écran des matchs (formulaires, avertissements, vidéo, impact). Aucune phrase du back n'est jamais affichée. */
+export const GAME_MESSAGES = {
+  seasonRequired: "Choisis une saison.",
+  seasonInvalid: "Cette saison est invalide.",
+  roundRequired: "Saisis le numéro de la journée.",
+  roundInvalid: "La journée doit être un nombre entier compris entre 1 et 999.",
+  dateRequired: "Saisis la date du match.",
+  dateInvalid: "Cette date n'existe pas.",
+  sideRequired: "Choisis le côté de l'équipe RPB (domicile ou extérieur).",
+  opponentRequired: "Choisis l'équipe adverse.",
+  opponentInvalid: "Cette équipe est invalide.",
+  scoreMissingOther: "Saisis aussi l'autre score, ou laisse les deux vides pour un match non joué.",
+  scoreInvalid: "Le score doit être un nombre entier positif ou nul (3 chiffres au plus).",
+  noRpbTeam: "Cette saison n'a pas d'équipe RPB associée. Associe-en une dans l'administration des saisons.",
+  opponentIsRpb: "L'adversaire ne peut pas être l'équipe RPB de la saison.",
+  videoInvalid:
+    "Lien vidéo non reconnu. Saisis l'identifiant YouTube (11 caractères) ou une adresse youtube.com / youtu.be.",
+  videoRemovalUnsupported:
+    "Le serveur ne permet pas encore de retirer une vidéo. Remplace-la par une autre ou laisse le champ tel quel.",
+  videoLegacyInvalid:
+    "Lien vidéo non reconnu : il sera conservé tel quel. Remplace-le par un identifiant ou une adresse YouTube valide.",
+  videoRecognized: (videoId: string) => `Vidéo reconnue (identifiant ${videoId}).`,
+  dateRejected: "Cette date est refusée par le serveur.",
+  teamGone: "Cette équipe n'existe plus. Recharge la page puis choisis-en une autre.",
+  seasonGone: "Cette saison n'existe plus. Recharge la page puis choisis-en une autre.",
+  verifyFailed: "Impossible de vérifier les données du match avant l'enregistrement. Réessaie.",
+  warningsIntro: "Vérifie les avertissements ci-dessous : coche chaque confirmation pour enregistrer quand même.",
+  noOtherTeam: "Aucune autre équipe disponible.",
+  legacyTeamsNotice: "Ce match n'oppose pas l'équipe RPB de la saison : ses équipes ne sont pas modifiables ici.",
+  rpbTeamHint: (name: string) => `Équipe RPB de cette saison : ${name}`,
+  noRpbTeamHint: "Cette saison n'a pas d'équipe RPB associée : elle ne permet pas de créer de match.",
+  scoresHint: "Laisse les deux scores vides si le match n'a pas encore eu lieu.",
+  videoHint: "Identifiant (11 caractères) ou adresse de la vidéo.",
+  sidePlaceholder: "Choisis…",
+  opponentPlaceholder: "Choisis l'équipe adverse…",
+  emptyListTitle: "Aucun match dans cette saison",
+  emptyListText: "Crée le premier match de la saison.",
+  noMatchTitle: (query: string) => `Aucun match ne correspond à « ${query} »`,
+  noSeasonTitle: "Aucune saison",
+  noSeasonText: "Crée d'abord une saison : un match en dépend.",
+  awaitingUnavailable:
+    "L'état des statistiques n'a pas pu être vérifié : la colonne « Statistiques » indique « Non vérifié ». La liste reste utilisable.",
+  statsUnknown: "Le nombre de lignes de statistiques de ce match n'a pas pu être vérifié.",
+  statsNotice: (count: number) =>
+    `Ce match a ${count} ${count > 1 ? "lignes" : "ligne"} de statistiques. Changer la saison ou les équipes les déplace avec le match.`,
+  deleteWarning: "Cette suppression est définitive. Elle supprime aussi les statistiques saisies pour ce match, tirs compris.",
+} as const;

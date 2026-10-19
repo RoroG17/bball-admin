@@ -1,0 +1,82 @@
+[
+  {
+    "Id_Equipe": 1,
+    "nom": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  },
+  {
+    "Id_Equipe": 2,
+    "nom": "TIGER'S",
+    "logo": "logo_tigers.png"
+  },
+  {
+    "Id_Equipe": 3,
+    "nom": "Basket Cazères",
+    "logo": "logo_cazeres.png"
+  },
+  {
+    "Id_Equipe": 4,
+    "nom": "Saint-Gaudens BC",
+    "logo": "logo_saint-gaudens.png"
+  },
+  {
+    "Id_Equipe": 5,
+    "nom": "Noé Carbonne Basket",
+    "logo": "logo_noe-carbonne.png"
+  },
+  {
+    "Id_Equipe": 6,
+    "nom": "Saint-Girons BB",
+    "logo": "logo_saint-girons.png"
+  },
+  {
+    "Id_Equipe": 7,
+    "nom": "JS Cugnaux",
+    "logo": "logo_cugnaux.png"
+  },
+  {
+    "Id_Equipe": 8,
+    "nom": "Coq Carlanais Basket",
+    "logo": "logo_coq_carlanais.png"
+  },
+  {
+    "Id_Equipe": 9,
+    "nom": "Union Sportive Pibracaise",
+    "logo": "logo_pibrac.png"
+  },
+  {
+    "Id_Equipe": 10,
+    "nom": "US Colomiers",
+    "logo": "logo_colomiers.png"
+  },
+  {
+    "Id_Equipe": 11,
+    "nom": "US Auterive",
+    "logo": "logo_auterive.png"
+  },
+  {
+    "Id_Equipe": 12,
+    "nom": "AS Labarthe-sur-Lèze",
+    "logo": null
+  },
+  {
+    "Id_Equipe": 13,
+    "nom": "Racing Portet Basket",
+    "logo": "logo_portet.png"
+  },
+  {
+    "Id_Equipe": 14,
+    "nom": "OTB",
+    "logo": "logo_otb.png"
+  },
+  {
+    "Id_Equipe": 15,
+    "nom": "Étoile Cugnaux",
+    "logo": null
+  },
+  {
+    "Id_Equipe": 16,
+    "nom": "Basket Inconnu",
+    "logo": "inconnu.png"
+  }
+]

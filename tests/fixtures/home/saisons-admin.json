@@ -1,0 +1,18 @@
+[
+  {
+    "Id_Saison": 4,
+    "annee_debut": 2025,
+    "annee_fin": 2026,
+    "championnat": "D1",
+    "categorie": "U15G",
+    "equipe": 1
+  },
+  {
+    "Id_Saison": 1,
+    "annee_debut": 2024,
+    "annee_fin": 2025,
+    "championnat": "D3",
+    "categorie": "U15G",
+    "equipe": 1
+  }
+]

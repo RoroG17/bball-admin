@@ -1,0 +1,10 @@
+{
+  "message": "The annee debut field is required. (and 4 more errors)",
+  "errors": {
+    "annee_debut": ["The annee debut field is required."],
+    "annee_fin": ["The annee fin field is required."],
+    "championnat": ["The championnat field is required."],
+    "categorie": ["The categorie field is required."],
+    "equipe": ["The equipe field is required."]
+  }
+}

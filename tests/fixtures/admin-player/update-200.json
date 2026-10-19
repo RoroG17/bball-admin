@@ -1,0 +1,11 @@
+{
+  "licence": "LIC1001",
+  "nom": "DURAND",
+  "prenom": "Paulo",
+  "civilite": "M",
+  "date_naissance": "2011-01-01",
+  "photo": "durand.png",
+  "Id_Equipe": 1,
+  "equipe": "FAC Basket",
+  "logo": "logo_frouzins.png"
+}

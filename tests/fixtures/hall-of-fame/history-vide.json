@@ -1,0 +1,67 @@
+{
+  "rankings": {
+    "points": {
+      "max_game": [],
+      "avg_game": [],
+      "max_season": [],
+      "avg_season": [],
+      "career_total": []
+    },
+    "assists": {
+      "max_game": [],
+      "avg_game": [],
+      "max_season": [],
+      "avg_season": [],
+      "career_total": []
+    },
+    "rebounds": {
+      "max_game": [],
+      "avg_game": [],
+      "max_season": [],
+      "avg_season": [],
+      "career_total": []
+    },
+    "steals": {
+      "max_game": [],
+      "avg_game": [],
+      "max_season": [],
+      "avg_season": [],
+      "career_total": []
+    },
+    "blocks": {
+      "max_game": [],
+      "avg_game": [],
+      "max_season": [],
+      "avg_season": [],
+      "career_total": []
+    },
+    "turnovers": {
+      "max_game": [],
+      "avg_game": [],
+      "max_season": [],
+      "avg_season": [],
+      "career_total": []
+    },
+    "field_goal_percentage": {
+      "max_game": [],
+      "avg_game": [],
+      "max_season": [],
+      "avg_season": [],
+      "career_total": []
+    },
+    "three_point_percentage": {
+      "max_game": [],
+      "avg_game": [],
+      "max_season": [],
+      "avg_season": [],
+      "career_total": []
+    },
+    "free_throw_percentage": {
+      "max_game": [],
+      "avg_game": [],
+      "max_season": [],
+      "avg_season": [],
+      "career_total": []
+    }
+  }
+}

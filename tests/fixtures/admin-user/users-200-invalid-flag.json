@@ -1,0 +1,5 @@
+{
+  "users": [
+    { "username": "paul.durand", "joueur": "LIC1001", "nom": "DURAND", "prenom": "Paul", "equipe": "FAC Basket", "has_password": 2 }
+  ]
+}

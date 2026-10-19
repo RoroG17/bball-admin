@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3",
+    "type": "size",
+    "value": 172,
+    "date_physics": "2026-05-26"
+  },
+  {
+    "id": "4",
+    "type": "spring",
+    "value": 49,
+    "date_physics": "2026-05-26"
+  },
+  {
+    "id": "5",
+    "type": "vma",
+    "value": 15,
+    "date_physics": "2026-05-26"
+  },
+  {
+    "id": "6",
+    "type": "size",
+    "value": 172,
+    "date_physics": "2026-07-17"
+  },
+  {
+    "id": "7",
+    "type": "spring",
+    "value": 49,
+    "date_physics": "2026-07-17"
+  },
+  {
+    "id": "8",
+    "type": "vma",
+    "value": 15,
+    "date_physics": "2026-07-17"
+  },
+  {
+    "id": "1",
+    "type": "size",
+    "value": 170,
+    "date_physics": "2026-01-15"
+  },
+  {
+    "id": "2",
+    "type": "spring",
+    "value": 46,
+    "date_physics": "2026-01-15"
+  },
+  {
+    "id": "9",
+    "type": "vma",
+    "value": 12.5,
+    "date_physics": "2026-01-15"
+  },
+  {
+    "id": "20",
+    "type": "Détente verticale",
+    "value": 55,
+    "date_physics": "2026-03-01"
+  }
+]

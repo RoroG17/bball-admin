@@ -1,0 +1,4 @@
+[
+  { "idMatch": 48, "numero": 13, "dateMatch": "2026-07-01", "equipeDom": "FAC Basket", "equipeExt": "Saint-Girons BB", "scoreDom": 67, "scoreExt": 55, "logoDom": "logo_frouzins.png", "logoExt": "logo_saint-girons.png", "idSaison": 4, "video": null },
+  { "idMatch": 41, "numero": 12, "dateMatch": "2026-06-20", "equipeDom": "US Colomiers", "equipeExt": "FAC Basket", "scoreDom": 70, "scoreExt": 70, "logoDom": "logo_colomiers.png", "logoExt": "logo_frouzins.png", "idSaison": 4, "video": null }
+]

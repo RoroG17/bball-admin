@@ -1,0 +1,16 @@
+{
+  "joueur": {
+    "licence": "LIC4000",
+    "nom": "LEFEBVRE",
+    "prenom": "Tom",
+    "civilite": "M",
+    "date_naissance": "2011-06-09",
+    "photo": "lefebvre.png",
+    "Id_Equipe": 1,
+    "physics": [],
+    "equipe": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  },
+  "stats": [],
+  "examens": []
+}

@@ -1,0 +1,76 @@
+{
+  "joueurs": [
+    {
+      "licence": "LIC1001",
+      "nom": "DURAND",
+      "prenom": "Paul",
+      "civilite": "M",
+      "date_naissance": "2011-01-01",
+      "photo": "durand.png",
+      "Id_Equipe": 1,
+      "physics": [],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    },
+    {
+      "licence": "LIC1000",
+      "nom": "MARCHAND",
+      "prenom": "Lucas",
+      "civilite": "M",
+      "photo": "marchand.png",
+      "Id_Equipe": 1,
+      "physics": [
+        {
+          "id": "3",
+          "type": "size",
+          "value": 172,
+          "date_physics": "2026-05-26"
+        },
+        {
+          "id": "4",
+          "type": "spring",
+          "value": 49,
+          "date_physics": "2026-05-26"
+        },
+        {
+          "id": "5",
+          "type": "vma",
+          "value": 15,
+          "date_physics": "2026-05-26"
+        },
+        {
+          "id": "6",
+          "type": "size",
+          "value": 172,
+          "date_physics": "2026-07-17"
+        },
+        {
+          "id": "7",
+          "type": "spring",
+          "value": 49,
+          "date_physics": "2026-07-17"
+        },
+        {
+          "id": "8",
+          "type": "vma",
+          "value": 15,
+          "date_physics": "2026-07-17"
+        }
+      ],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    },
+    {
+      "licence": "LIC2000",
+      "nom": "ROUSSEL",
+      "prenom": "Élodie",
+      "civilite": "M",
+      "date_naissance": "2011-03-15",
+      "photo": "roussel.png",
+      "Id_Equipe": 1,
+      "physics": [],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    }
+  ]
+}

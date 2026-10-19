@@ -1,0 +1,8 @@
+{
+  "message": "The value field must be a number.",
+  "errors": {
+    "value": [
+      "The value field must be a number."
+    ]
+  }
+}

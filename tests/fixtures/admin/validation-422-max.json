@@ -1,0 +1,8 @@
+{
+  "message": "The nom field must not be greater than 255 characters.",
+  "errors": {
+    "nom": [
+      "The nom field must not be greater than 255 characters."
+    ]
+  }
+}

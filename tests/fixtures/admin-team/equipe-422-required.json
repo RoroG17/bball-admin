@@ -1,0 +1,8 @@
+{
+  "message": "The nom field is required.",
+  "errors": {
+    "nom": [
+      "The nom field is required."
+    ]
+  }
+}

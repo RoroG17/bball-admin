@@ -1,0 +1,16 @@
+{
+  "joueur": {
+    "licence": "LIC3000",
+    "nom": "BONNET",
+    "prenom": "Yanis",
+    "civilite": "M",
+    "date_naissance": "2011-07-16",
+    "photo": "bonnet.png",
+    "Id_Equipe": 1,
+    "physics": [],
+    "equipe": "FAC Basket",
+    "logo": "logo_frouzins.png"
+  },
+  "stats": [],
+  "examens": []
+}

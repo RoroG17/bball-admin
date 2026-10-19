@@ -1,0 +1,2406 @@
+{
+  "previousGame": {
+    "idMatch": 53,
+    "numero": 18,
+    "dateMatch": "2026-05-09",
+    "equipeDom": "FAC Basket",
+    "equipeExt": "OTB",
+    "scoreDom": 69,
+    "scoreExt": 72,
+    "logoDom": "logo_frouzins.png",
+    "logoExt": "logo_otb.png"
+  },
+  "nextGame": {
+    "idMatch": 54,
+    "numero": 19,
+    "dateMatch": "2026-05-16",
+    "equipeDom": "OTB",
+    "equipeExt": "FAC Basket",
+    "scoreDom": 0,
+    "scoreExt": 0,
+    "logoDom": "logo_otb.png",
+    "logoExt": "logo_frouzins.png"
+  },
+  "joueurs": [
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "civilite": "M",
+      "date_naissance": "2011-01-01",
+      "photo": "joueur-1.png",
+      "Id_Equipe": 1,
+      "physics": [
+        {
+          "id": "3",
+          "type": "size",
+          "value": 180,
+          "date_physics": "2026-01-01"
+        }
+      ],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "civilite": "M",
+      "date_naissance": "2011-01-01",
+      "photo": "joueur-2.png",
+      "Id_Equipe": 1,
+      "physics": [],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "civilite": "M",
+      "date_naissance": "2011-01-01",
+      "photo": "joueur-3.png",
+      "Id_Equipe": 1,
+      "physics": [],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "civilite": "M",
+      "date_naissance": "2011-01-01",
+      "photo": "joueur-4.png",
+      "Id_Equipe": 1,
+      "physics": [],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "civilite": "M",
+      "date_naissance": "2011-01-01",
+      "photo": "joueur-5.png",
+      "Id_Equipe": 1,
+      "physics": [],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "civilite": "M",
+      "date_naissance": "2011-01-01",
+      "photo": "joueur-6.png",
+      "Id_Equipe": 1,
+      "physics": [],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "civilite": "M",
+      "date_naissance": "2011-01-01",
+      "photo": "joueur-7.png",
+      "Id_Equipe": 1,
+      "physics": [],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "civilite": "M",
+      "date_naissance": "2011-01-01",
+      "photo": "joueur-8.png",
+      "Id_Equipe": 1,
+      "physics": [],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "civilite": "M",
+      "date_naissance": "2011-01-01",
+      "photo": "joueur-9.png",
+      "Id_Equipe": 1,
+      "physics": [],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "civilite": "M",
+      "date_naissance": "2011-01-01",
+      "photo": "joueur-10.png",
+      "Id_Equipe": 1,
+      "physics": [],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "civilite": "M",
+      "date_naissance": "2011-01-01",
+      "photo": "joueur-11.png",
+      "Id_Equipe": 1,
+      "physics": [],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "civilite": "M",
+      "date_naissance": "2011-01-01",
+      "photo": "joueur-12.png",
+      "Id_Equipe": 1,
+      "physics": [],
+      "equipe": "FAC Basket",
+      "logo": "logo_frouzins.png"
+    }
+  ],
+  "ratioVictoire": 11,
+  "ratioDefaite": 7,
+  "stats": {
+    "q1_points": "13.8235294117647059",
+    "q2_points": "15.1764705882352941",
+    "q3_points": "15.2352941176470588",
+    "q4_points": "14.0588235294117647",
+    "q1_assists": "4.6470588235294118",
+    "q2_assists": "4.6470588235294118",
+    "q3_assists": "4.6470588235294118",
+    "q4_assists": "4.7058823529411765",
+    "q1_rebounds": "10.0588235294117647",
+    "q2_rebounds": "10.4705882352941176",
+    "q3_rebounds": "13.0588235294117647",
+    "q4_rebounds": "12.2352941176470588",
+    "q1_steals": "5.5294117647058824",
+    "q2_steals": "6.0000000000000000",
+    "q3_steals": "5.6470588235294118",
+    "q4_steals": "5.0588235294117647",
+    "q1_blocks": "1.4705882352941176",
+    "q2_blocks": "1.2352941176470588",
+    "q3_blocks": "0.82352941176470588235",
+    "q4_blocks": "1.1176470588235294",
+    "q1_turnovers": "8.8235294117647059",
+    "q2_turnovers": "6.7647058823529412",
+    "q3_turnovers": "7.2941176470588235",
+    "q4_turnovers": "6.8235294117647059",
+    "q1_fouls": "4.9411764705882353",
+    "q2_fouls": "4.6470588235294118",
+    "q3_fouls": "4.1176470588235294",
+    "q4_fouls": "4.9411764705882353",
+    "Id_Saison": 4
+  },
+  "classPTSActuelle": [
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "15.71",
+      "total": 267
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "9.77",
+      "total": 127
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "7.69",
+      "total": 123
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "6.07",
+      "total": 85
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "5.24",
+      "total": 89
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "4.88",
+      "total": 78
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "4.70",
+      "total": 47
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "4.44",
+      "total": 71
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "3.65",
+      "total": 62
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "2.11",
+      "total": 19
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "1.50",
+      "total": 12
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "0.69",
+      "total": 11
+    }
+  ],
+  "classPDActuelle": [
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "3.56",
+      "total": 57
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "3.18",
+      "total": 54
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "2.82",
+      "total": 48
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "2.43",
+      "total": 34
+    },
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "2.24",
+      "total": 38
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "1.56",
+      "total": 14
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "1.50",
+      "total": 24
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "1.00",
+      "total": 8
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "0.90",
+      "total": 9
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "0.88",
+      "total": 14
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "0.77",
+      "total": 10
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "0.44",
+      "total": 7
+    }
+  ],
+  "classRebActuelle": [
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "10.56",
+      "total": 169
+    },
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "9.29",
+      "total": 158
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "7.40",
+      "total": 74
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "6.77",
+      "total": 88
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "4.56",
+      "total": 73
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "3.24",
+      "total": 55
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "2.93",
+      "total": 41
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "2.88",
+      "total": 46
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "2.41",
+      "total": 41
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "2.11",
+      "total": 19
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "0.69",
+      "total": 11
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "0.50",
+      "total": 4
+    }
+  ],
+  "classIntActuelle": [
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "4.47",
+      "total": 76
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "3.50",
+      "total": 56
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "2.93",
+      "total": 41
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "2.38",
+      "total": 31
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "2.35",
+      "total": 40
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "2.13",
+      "total": 34
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "2.12",
+      "total": 36
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "2.11",
+      "total": 19
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "1.81",
+      "total": 29
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "0.90",
+      "total": 9
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "0.38",
+      "total": 3
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "0.25",
+      "total": 4
+    }
+  ],
+  "classContreActuelle": [
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "1.88",
+      "total": 32
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "1.08",
+      "total": 14
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "0.69",
+      "total": 11
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "0.59",
+      "total": 10
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "0.40",
+      "total": 4
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "0.19",
+      "total": 3
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "0.14",
+      "total": 2
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "0.12",
+      "total": 2
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "0.06",
+      "total": 1
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "0.00",
+      "total": 0
+    }
+  ],
+  "classBPActuelle": [
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "4.29",
+      "total": 73
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "4.29",
+      "total": 60
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "4.18",
+      "total": 71
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "4.13",
+      "total": 66
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "3.65",
+      "total": 62
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "3.38",
+      "total": 54
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "2.25",
+      "total": 36
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "2.15",
+      "total": 28
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "2.00",
+      "total": 20
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "1.38",
+      "total": 22
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "1.00",
+      "total": 9
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "0.50",
+      "total": 4
+    }
+  ],
+  "classShootActuelle": [
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "50.04",
+      "total": 121
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "43.35",
+      "total": 33
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "43.23",
+      "total": 54
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "36.26",
+      "total": 36
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "36.06",
+      "total": 33
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "35.42",
+      "total": 6
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "35.14",
+      "total": 58
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "35.08",
+      "total": 24
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "30.97",
+      "total": 22
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "27.59",
+      "total": 8
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "24.12",
+      "total": 33
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "7.29",
+      "total": 5
+    }
+  ],
+  "class3PtsActuelle": [
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "18.63",
+      "total": 5
+    },
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "15.69",
+      "total": 4
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "7.14",
+      "total": 1
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "4.41",
+      "total": 2
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "0.00",
+      "total": 0
+    }
+  ],
+  "classLFActuelle": [
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "28.21",
+      "total": 11
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "26.49",
+      "total": 16
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "26.30",
+      "total": 12
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "24.43",
+      "total": 15
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "22.06",
+      "total": 8
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "16.67",
+      "total": 3
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "12.71",
+      "total": 5
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "12.50",
+      "total": 3
+    },
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "12.32",
+      "total": 13
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "3.92",
+      "total": 2
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "3.13",
+      "total": 1
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "0.00",
+      "total": 0
+    }
+  ],
+  "classPTS": [
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "11.52",
+      "total": 357
+    },
+    {
+      "licence": "LIC1012",
+      "nom": "LEFEBVRE",
+      "prenom": "Noé",
+      "photo": "joueur-13.png",
+      "valeur": "9.54",
+      "total": 124
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "8.13",
+      "total": 187
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "6.84",
+      "total": 171
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "6.15",
+      "total": 166
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "4.72",
+      "total": 137
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "4.70",
+      "total": 47
+    },
+    {
+      "licence": "LIC1013",
+      "nom": "MICHEL",
+      "prenom": "Ethan",
+      "photo": null,
+      "valeur": "4.60",
+      "total": 46
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "4.17",
+      "total": 125
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "3.65",
+      "total": 62
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "3.48",
+      "total": 101
+    },
+    {
+      "licence": "LIC1014",
+      "nom": "GARCIA",
+      "prenom": "Sacha",
+      "photo": "joueur-15.png",
+      "valeur": "3.23",
+      "total": 42
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "2.11",
+      "total": 19
+    },
+    {
+      "licence": "LIC1015",
+      "nom": "DAVID",
+      "prenom": "Mathis",
+      "photo": null,
+      "valeur": "1.88",
+      "total": 15
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "1.36",
+      "total": 19
+    },
+    {
+      "licence": "LIC1016",
+      "nom": "BERTRAND",
+      "prenom": "Timéo",
+      "photo": "joueur-17.png",
+      "valeur": "1.33",
+      "total": 4
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "0.75",
+      "total": 21
+    },
+    {
+      "licence": "LIC1017",
+      "nom": "ROUX",
+      "prenom": "Enzo",
+      "photo": "joueur-18.png",
+      "valeur": "0.45",
+      "total": 5
+    }
+  ],
+  "classPD": [
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "3.48",
+      "total": 101
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "3.18",
+      "total": 54
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "2.52",
+      "total": 63
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "2.17",
+      "total": 65
+    },
+    {
+      "licence": "LIC1012",
+      "nom": "LEFEBVRE",
+      "prenom": "Noé",
+      "photo": "joueur-13.png",
+      "valeur": "2.15",
+      "total": 28
+    },
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "1.90",
+      "total": 59
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "1.56",
+      "total": 14
+    },
+    {
+      "licence": "LIC1017",
+      "nom": "ROUX",
+      "prenom": "Enzo",
+      "photo": "joueur-18.png",
+      "valeur": "1.45",
+      "total": 16
+    },
+    {
+      "licence": "LIC1013",
+      "nom": "MICHEL",
+      "prenom": "Ethan",
+      "photo": null,
+      "valeur": "1.40",
+      "total": 14
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "1.38",
+      "total": 40
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "0.90",
+      "total": 9
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "0.89",
+      "total": 24
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "0.87",
+      "total": 20
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "0.79",
+      "total": 11
+    },
+    {
+      "licence": "LIC1014",
+      "nom": "GARCIA",
+      "prenom": "Sacha",
+      "photo": "joueur-15.png",
+      "valeur": "0.54",
+      "total": 7
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "0.43",
+      "total": 12
+    },
+    {
+      "licence": "LIC1015",
+      "nom": "DAVID",
+      "prenom": "Mathis",
+      "photo": null,
+      "valeur": "0.38",
+      "total": 3
+    },
+    {
+      "licence": "LIC1016",
+      "nom": "BERTRAND",
+      "prenom": "Timéo",
+      "photo": "joueur-17.png",
+      "valeur": "0.33",
+      "total": 1
+    }
+  ],
+  "classReb": [
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "9.28",
+      "total": 269
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "7.40",
+      "total": 74
+    },
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "7.19",
+      "total": 223
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "6.61",
+      "total": 152
+    },
+    {
+      "licence": "LIC1012",
+      "nom": "LEFEBVRE",
+      "prenom": "Noé",
+      "photo": "joueur-13.png",
+      "valeur": "5.77",
+      "total": 75
+    },
+    {
+      "licence": "LIC1013",
+      "nom": "MICHEL",
+      "prenom": "Ethan",
+      "photo": null,
+      "valeur": "5.40",
+      "total": 54
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "4.79",
+      "total": 139
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "3.07",
+      "total": 92
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "2.89",
+      "total": 78
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "2.84",
+      "total": 71
+    },
+    {
+      "licence": "LIC1015",
+      "nom": "DAVID",
+      "prenom": "Mathis",
+      "photo": null,
+      "valeur": "2.63",
+      "total": 21
+    },
+    {
+      "licence": "LIC1014",
+      "nom": "GARCIA",
+      "prenom": "Sacha",
+      "photo": "joueur-15.png",
+      "valeur": "2.46",
+      "total": 32
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "2.41",
+      "total": 41
+    },
+    {
+      "licence": "LIC1017",
+      "nom": "ROUX",
+      "prenom": "Enzo",
+      "photo": "joueur-18.png",
+      "valeur": "2.36",
+      "total": 26
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "2.11",
+      "total": 19
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "1.07",
+      "total": 15
+    },
+    {
+      "licence": "LIC1016",
+      "nom": "BERTRAND",
+      "prenom": "Timéo",
+      "photo": "joueur-17.png",
+      "valeur": "1.00",
+      "total": 3
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "0.75",
+      "total": 21
+    }
+  ],
+  "classInt": [
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "3.90",
+      "total": 121
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "3.76",
+      "total": 109
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "3.28",
+      "total": 82
+    },
+    {
+      "licence": "LIC1014",
+      "nom": "GARCIA",
+      "prenom": "Sacha",
+      "photo": "joueur-15.png",
+      "valeur": "2.38",
+      "total": 31
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "2.26",
+      "total": 52
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "2.12",
+      "total": 36
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "2.11",
+      "total": 19
+    },
+    {
+      "licence": "LIC1013",
+      "nom": "MICHEL",
+      "prenom": "Ethan",
+      "photo": null,
+      "valeur": "2.10",
+      "total": 21
+    },
+    {
+      "licence": "LIC1012",
+      "nom": "LEFEBVRE",
+      "prenom": "Noé",
+      "photo": "joueur-13.png",
+      "valeur": "2.00",
+      "total": 26
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "1.83",
+      "total": 55
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "1.83",
+      "total": 53
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "1.59",
+      "total": 43
+    },
+    {
+      "licence": "LIC1017",
+      "nom": "ROUX",
+      "prenom": "Enzo",
+      "photo": "joueur-18.png",
+      "valeur": "1.55",
+      "total": 17
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "1.29",
+      "total": 18
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "0.90",
+      "total": 9
+    },
+    {
+      "licence": "LIC1015",
+      "nom": "DAVID",
+      "prenom": "Mathis",
+      "photo": null,
+      "valeur": "0.88",
+      "total": 7
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "0.39",
+      "total": 11
+    },
+    {
+      "licence": "LIC1016",
+      "nom": "BERTRAND",
+      "prenom": "Timéo",
+      "photo": "joueur-17.png",
+      "valeur": "0.00",
+      "total": 0
+    }
+  ],
+  "classContre": [
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "1.29",
+      "total": 40
+    },
+    {
+      "licence": "LIC1012",
+      "nom": "LEFEBVRE",
+      "prenom": "Noé",
+      "photo": "joueur-13.png",
+      "valeur": "1.15",
+      "total": 15
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "0.72",
+      "total": 21
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "0.70",
+      "total": 16
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "0.59",
+      "total": 10
+    },
+    {
+      "licence": "LIC1014",
+      "nom": "GARCIA",
+      "prenom": "Sacha",
+      "photo": "joueur-15.png",
+      "valeur": "0.54",
+      "total": 7
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "0.40",
+      "total": 4
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "0.32",
+      "total": 8
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "0.30",
+      "total": 9
+    },
+    {
+      "licence": "LIC1017",
+      "nom": "ROUX",
+      "prenom": "Enzo",
+      "photo": "joueur-18.png",
+      "valeur": "0.27",
+      "total": 3
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "0.17",
+      "total": 5
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "0.04",
+      "total": 1
+    },
+    {
+      "licence": "LIC1016",
+      "nom": "BERTRAND",
+      "prenom": "Timéo",
+      "photo": "joueur-17.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1013",
+      "nom": "MICHEL",
+      "prenom": "Ethan",
+      "photo": null,
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1015",
+      "nom": "DAVID",
+      "prenom": "Mathis",
+      "photo": null,
+      "valeur": "0.00",
+      "total": 0
+    }
+  ],
+  "classBP": [
+    {
+      "licence": "LIC1013",
+      "nom": "MICHEL",
+      "prenom": "Ethan",
+      "photo": null,
+      "valeur": "4.30",
+      "total": 43
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "4.14",
+      "total": 120
+    },
+    {
+      "licence": "LIC1012",
+      "nom": "LEFEBVRE",
+      "prenom": "Noé",
+      "photo": "joueur-13.png",
+      "valeur": "4.00",
+      "total": 52
+    },
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "3.97",
+      "total": 123
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "3.83",
+      "total": 115
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "3.65",
+      "total": 62
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "3.48",
+      "total": 87
+    },
+    {
+      "licence": "LIC1014",
+      "nom": "GARCIA",
+      "prenom": "Sacha",
+      "photo": "joueur-15.png",
+      "valeur": "2.77",
+      "total": 36
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "2.67",
+      "total": 72
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "2.21",
+      "total": 64
+    },
+    {
+      "licence": "LIC1016",
+      "nom": "BERTRAND",
+      "prenom": "Timéo",
+      "photo": "joueur-17.png",
+      "valeur": "2.00",
+      "total": 6
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "2.00",
+      "total": 20
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "1.78",
+      "total": 41
+    },
+    {
+      "licence": "LIC1017",
+      "nom": "ROUX",
+      "prenom": "Enzo",
+      "photo": "joueur-18.png",
+      "valeur": "1.73",
+      "total": 19
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "1.64",
+      "total": 46
+    },
+    {
+      "licence": "LIC1015",
+      "nom": "DAVID",
+      "prenom": "Mathis",
+      "photo": null,
+      "valeur": "1.25",
+      "total": 10
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "1.07",
+      "total": 15
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "1.00",
+      "total": 9
+    }
+  ],
+  "classShoot": [
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "47.20",
+      "total": 164
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "42.95",
+      "total": 72
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "38.30",
+      "total": 73
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "35.08",
+      "total": 24
+    },
+    {
+      "licence": "LIC1012",
+      "nom": "LEFEBVRE",
+      "prenom": "Noé",
+      "photo": "joueur-13.png",
+      "valeur": "32.74",
+      "total": 57
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "32.47",
+      "total": 56
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "31.59",
+      "total": 86
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "30.97",
+      "total": 22
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "27.59",
+      "total": 8
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "27.54",
+      "total": 53
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "25.85",
+      "total": 9
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "24.75",
+      "total": 48
+    },
+    {
+      "licence": "LIC1016",
+      "nom": "BERTRAND",
+      "prenom": "Timéo",
+      "photo": "joueur-17.png",
+      "valeur": "22.22",
+      "total": 2
+    },
+    {
+      "licence": "LIC1013",
+      "nom": "MICHEL",
+      "prenom": "Ethan",
+      "photo": null,
+      "valeur": "21.54",
+      "total": 21
+    },
+    {
+      "licence": "LIC1014",
+      "nom": "GARCIA",
+      "prenom": "Sacha",
+      "photo": "joueur-15.png",
+      "valeur": "16.92",
+      "total": 15
+    },
+    {
+      "licence": "LIC1015",
+      "nom": "DAVID",
+      "prenom": "Mathis",
+      "photo": null,
+      "valeur": "15.77",
+      "total": 6
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "8.25",
+      "total": 9
+    },
+    {
+      "licence": "LIC1017",
+      "nom": "ROUX",
+      "prenom": "Enzo",
+      "photo": "joueur-18.png",
+      "valeur": "4.55",
+      "total": 1
+    }
+  ],
+  "class3Pts": [
+    {
+      "licence": "LIC1014",
+      "nom": "GARCIA",
+      "prenom": "Sacha",
+      "photo": "joueur-15.png",
+      "valeur": "14.10",
+      "total": 3
+    },
+    {
+      "licence": "LIC1015",
+      "nom": "DAVID",
+      "prenom": "Mathis",
+      "photo": null,
+      "valeur": "12.50",
+      "total": 1
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "10.56",
+      "total": 5
+    },
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "10.22",
+      "total": 5
+    },
+    {
+      "licence": "LIC1017",
+      "nom": "ROUX",
+      "prenom": "Enzo",
+      "photo": "joueur-18.png",
+      "valeur": "9.09",
+      "total": 1
+    },
+    {
+      "licence": "LIC1012",
+      "nom": "LEFEBVRE",
+      "prenom": "Noé",
+      "photo": "joueur-13.png",
+      "valeur": "8.97",
+      "total": 3
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "6.90",
+      "total": 3
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "4.41",
+      "total": 2
+    },
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "4.00",
+      "total": 1
+    },
+    {
+      "licence": "LIC1016",
+      "nom": "BERTRAND",
+      "prenom": "Timéo",
+      "photo": "joueur-17.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1013",
+      "nom": "MICHEL",
+      "prenom": "Ethan",
+      "photo": null,
+      "valeur": "0.00",
+      "total": 0
+    }
+  ],
+  "classLF": [
+    {
+      "licence": "LIC1008",
+      "nom": "LEROY",
+      "prenom": "Léo",
+      "photo": "joueur-9.png",
+      "valeur": "26.17",
+      "total": 24
+    },
+    {
+      "licence": "LIC1005",
+      "nom": "RICHARD",
+      "prenom": "Jules",
+      "photo": "joueur-6.png",
+      "valeur": "22.10",
+      "total": 15
+    },
+    {
+      "licence": "LIC1001",
+      "nom": "BERNARD",
+      "prenom": "Hugo",
+      "photo": "joueur-2.png",
+      "valeur": "22.06",
+      "total": 8
+    },
+    {
+      "licence": "LIC1010",
+      "nom": "SIMON",
+      "prenom": "Paul",
+      "photo": "joueur-11.png",
+      "valeur": "19.68",
+      "total": 16
+    },
+    {
+      "licence": "LIC1006",
+      "nom": "PETIT",
+      "prenom": "Adam",
+      "photo": "joueur-7.png",
+      "valeur": "19.10",
+      "total": 20
+    },
+    {
+      "licence": "LIC1004",
+      "nom": "ROBERT",
+      "prenom": "Gabriel",
+      "photo": "joueur-5.png",
+      "valeur": "16.67",
+      "total": 3
+    },
+    {
+      "licence": "LIC1011",
+      "nom": "LAURENT",
+      "prenom": "Tom",
+      "photo": "joueur-12.png",
+      "valeur": "12.50",
+      "total": 3
+    },
+    {
+      "licence": "LIC1013",
+      "nom": "MICHEL",
+      "prenom": "Ethan",
+      "photo": null,
+      "valeur": "12.00",
+      "total": 4
+    },
+    {
+      "licence": "LIC1000",
+      "nom": "MARTIN",
+      "prenom": "Lucas",
+      "photo": "joueur-1.png",
+      "valeur": "9.98",
+      "total": 14
+    },
+    {
+      "licence": "LIC1014",
+      "nom": "GARCIA",
+      "prenom": "Sacha",
+      "photo": "joueur-15.png",
+      "valeur": "7.69",
+      "total": 3
+    },
+    {
+      "licence": "LIC1007",
+      "nom": "DURAND",
+      "prenom": "Arthur",
+      "photo": "joueur-8.png",
+      "valeur": "7.01",
+      "total": 5
+    },
+    {
+      "licence": "LIC1002",
+      "nom": "DUBOIS",
+      "prenom": "Louis",
+      "photo": "joueur-3.png",
+      "valeur": "5.56",
+      "total": 4
+    },
+    {
+      "licence": "LIC1009",
+      "nom": "MOREAU",
+      "prenom": "Raphaël",
+      "photo": "joueur-10.png",
+      "valeur": "5.36",
+      "total": 3
+    },
+    {
+      "licence": "LIC1012",
+      "nom": "LEFEBVRE",
+      "prenom": "Noé",
+      "photo": "joueur-13.png",
+      "valeur": "3.85",
+      "total": 1
+    },
+    {
+      "licence": "LIC1003",
+      "nom": "THOMAS",
+      "prenom": "Nathan",
+      "photo": "joueur-4.png",
+      "valeur": "3.57",
+      "total": 1
+    },
+    {
+      "licence": "LIC1017",
+      "nom": "ROUX",
+      "prenom": "Enzo",
+      "photo": "joueur-18.png",
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1015",
+      "nom": "DAVID",
+      "prenom": "Mathis",
+      "photo": null,
+      "valeur": "0.00",
+      "total": 0
+    },
+    {
+      "licence": "LIC1016",
+      "nom": "BERTRAND",
+      "prenom": "Timéo",
+      "photo": "joueur-17.png",
+      "valeur": "0.00",
+      "total": 0
+    }
+  ]
+}
