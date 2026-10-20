@@ -129,7 +129,7 @@ export default function PrivacyPage() {
         <h2>Destinataires et hébergement</h2>
         <p>
           Les données nécessaires au fonctionnement de l&apos;application sont transmises au serveur de BBall, à
-          l&apos;adresse <code>https://statmatch.alwaysdata.net</code>. Le serveur reçoit les identifiants envoyés
+          notre serveur <strong>AlwaysData</strong>. Le serveur reçoit les identifiants envoyés
           pour la connexion, les demandes de données sportives et les informations techniques décrites ci-dessus.
           Les journaux des requêtes et des erreurs ne peuvent être consultés que par les personnes autorisées à
           administrer le service.
